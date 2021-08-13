@@ -1,0 +1,70 @@
+/*-------------------------------------------------- Botão -------------------------------------------------*/
+
+
+.button {
+    width: 140px;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+
+.button:hover {
+    background-color: #ff9100;
+    box-shadow: 0px 15px 20px rgba(229, 128, 46, 0.4);
+    color: #fff;
+    transform: translateY(-5px);
+}
+
+/*-------------------------------------------------- Botão -------------------------------------------------*/
+
+
+/*-------------------------------------------------- File -------------------------------------------------*/
+
+
+
+label {
+    padding: 1rem;
+    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+
+label:hover {
+    background-color: #ff9100;
+    box-shadow: 0px 15px 20px rgba(229, 128, 46, 0.4);
+    color: #fff;
+    transform: translateY(-5px);
+}
+
+#file-chosen{
+    margin-left: 0.3rem;
+    font-family: sans-serif;
+}
+
+
+/*-------------------------------------------------- Botão -------------------------------------------------*/
+
+
+
